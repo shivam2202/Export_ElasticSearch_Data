@@ -1,6 +1,4 @@
 # Export ElasticSearch Data
-This is repo for exporting aggrgrated elastic data to different file format or sink to another storage. If you like to see more or need help in exporting data. Please feel free to contact me.
-
 
 ## Export to CSV
 Script exports composite aggregration query result to CSV. See comments for detail information.
